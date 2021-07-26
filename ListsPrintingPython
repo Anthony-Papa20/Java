@@ -1,0 +1,3 @@
+example = 'give me them sweet feet'
+myList = example.split(' ')
+print(*myList, sep='\n')
