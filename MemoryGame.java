@@ -1,4 +1,4 @@
-//ALL Credits Belong To: Cameron Kranz & Anthony Papa
+//ALL Credits Belong To: Anthony Papa
 
 import java.util.ArrayList;
 import java.util.Random;
